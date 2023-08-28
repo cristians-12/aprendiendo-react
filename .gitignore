@@ -3,3 +3,5 @@ node_modules
 .DS_Store
 projects/**/.DS_Store
 projects/**/dist
+temp_auto_push.bat
+temp_interactive_push.bat
